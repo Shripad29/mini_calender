@@ -6,7 +6,7 @@ A sleek and responsive **Mini Calendar** built with pure HTML, CSS, and JavaScri
 
 ## 📸 Screenshot
 
-![Mini Calendar Screenshot](./minicalender.png)  
+![Mini Calendar Screenshot](https://github.com/Shripad29/mini_calender/blob/main/minicalender.PNG?raw=true)  
 
 ---
 
